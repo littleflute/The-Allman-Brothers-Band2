@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Me and Bobby McGee.mp3";		
+f[2]	= "02 Relativity.mp3";		
+f[3]	= "03 Goin' Upstairs.mp3";		
+f[4]	= "04 Don't Tell Me Your Troubles.mp3";		
+f[5]	= "05 Sick and Tired.mp3";		
+f[6]	= "06 Odessa.mp3";		
+f[7]	= "07 Gift of Love.mp3";		
+f[8]	= "08 Sing My Way Home.mp3";		
+f[9]	= "09 Statesboro Blues [Live].mp3";		
+f[10]	= "10 In Memory of Elizabeth Reed [Live].mp3";		
+f[11]	= "11 Sugar Magnolia [_][Live].mp3";		
+f[12]	= "12 One Way Out [Live].mp3";		
+f[13]	= "13 Push Push.mp3";		
+f[14]	= "14 Spirit in the Dark.mp3";		
+f[15]	= "15 What'd I Say.mp3";		
